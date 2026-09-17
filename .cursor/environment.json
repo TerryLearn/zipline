@@ -1,0 +1,5 @@
+{
+  "name": "zipline (Python 3.6)",
+  "user": "ubuntu",
+  "install": "bash .cursor/install.sh"
+}
